@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Interesting Times
-email: your-email@example.com
+title: Argonium Artificial Intelligence Research  
+email: "ricky.lau@learnability.tech"
 description: >- # this means to ignore newlines until "baseurl:"
-  May you come up with an interesting description
-baseurl: "/the-interesting-times" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics: 'UA-131540516-1' # Substitute this with your own GA key
-twitter_username: jekyllrb
-github_username:  jekyll
+  Reveal AI Revenue In Your Business 
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://aair.co" # the base hostname & protocol for your site, e.g. http://example.com
+# google_analytics: 'UA-131540516-1' # Substitute this with your own GA key
+# twitter_username: jekyllrb
+github_username:  AlgoRicky
 excerpt_separator: <!--more-->
 
 # Build settings
@@ -52,6 +52,6 @@ collections:
 
 # Social media
 twitter: twitter
-github: github
-linkedin: linkedin
+github: AlgoRicky
+linkedin: rickykclau
 facebook: facebook
