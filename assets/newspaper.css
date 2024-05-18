@@ -100,13 +100,41 @@ q {
         -webkit-column-count: 1;
         column-count: 1;
     }
+    h3 {
+      font-size:10px
+      }
+    .break-word {
+      word-wrap: break-word;
+    }
 }
 
 @media only screen and (min-width: 321px) and (max-width: 768px){
     .masonry {
-        -moz-column-count: 2;
-        -webkit-column-count: 2;
-        column-count: 2;
+        -moz-column-count: 1;
+        -webkit-column-count: 1;
+        column-count: 1;
+    }
+    h3 {
+      font-size:30px;
+      display: inline-block;
+      overflow-wrap: break-word;
+      word-wrap: break-word;
+      word-break: normal;
+      line-break: strict;
+      hyphens: auto;
+      -webkit-hyphens: auto;
+      -moz-hyphens: auto;
+    }
+    .break-word {
+      word-wrap: break-word;
+    }
+    .HeroColumn {
+      float: left;
+      width: 100%;
+      padding: 10px;
+    }
+    .sideHeroColumn {
+      overflow: hidden;
     }
 }
 @media only screen and (min-width: 769px) and (max-width: 1200px){
@@ -115,6 +143,13 @@ q {
         -webkit-column-count: 3;
         column-count: 3;
     }
+    h3 {
+      font-size:60px
+      }
+    .break-word {
+      word-wrap: break-word;
+    }
+
 }
 @media only screen and (min-width: 1201px) {
     .masonry {
@@ -122,4 +157,16 @@ q {
         -webkit-column-count: 4;
         column-count: 4;
     }
+    h3 {
+      font-size:10px;
+      display: inline-block;
+      overflow-wrap: break-word;
+      word-wrap: break-word;
+      word-break: normal;
+      line-break: strict;
+      hyphens: auto;
+      -webkit-hyphens: auto;
+      -moz-hyphens: auto;
+    }
+
 }

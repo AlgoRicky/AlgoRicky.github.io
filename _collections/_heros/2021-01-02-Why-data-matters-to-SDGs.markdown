@@ -4,7 +4,7 @@ title:  Why data matters to SDGs
 author: data4sdgs.org
 date:   2012-01-02 00:00:00 +0800
 image: https://imarticus.org/blog/wp-content/uploads/2020/10/fdsa.gif
-position: right
+position: left
 image_caption: 
 --- 
 Data are characteristics or information (usually numerical) that are collected through observations. In a more technical sense, data are sets of values of qualitative or quantitative variables about one or more persons or objects. The philosophy that data and technology can improve the lives of many. Data holds enormous power to benefit people, unfortunately, many hurdles and barriers are limited people to unlock the potential power.

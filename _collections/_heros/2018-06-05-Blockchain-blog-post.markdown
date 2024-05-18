@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  'Blockchain: Avenue to the Future'
+title:  Blockchain, Avenue to the Future
 author: Ricky Lau
 date:   2018-06-05 00:00:00 +0800
 image: https://media.licdn.com/dms/image/D4D12AQE_oPCCcB3-Vw/article-inline_image-shrink_1500_2232/0/1695014103752?e=1720656000&v=beta&t=QVdYc1v72NUBE1Eh9FUreEDZ_5fzn8Rtq-QSNQnNcQQ
-position: left
+position: right
 image_caption: A blockchain network’s transactions are composed of sequential groups of data that are packaged together into “blocks” strung together linearly. 
 --- 
 I am a data scientist. I have been working for machine learning and AI for more than a decade. In the recent years, enterprises have approached me looking for ways to monetize data. Big data and IoT are sneaking into everyone’s life. My experience in machine learning can be the bridge between the enterprises for boosting and transforming a traditional business to become a data driven company by adopting new technologies.<!--more-->Though there are thousand business hurdles may necessarily overcame, it would not be a problem riding on the high technologies. In fact, many of them spoke to me is regarding Blockchain. They all are the teaser about the potentials of Blockchain, I am aware that there is some skepticism about Blockchain and doubt that it is a mature enough technology for enterprises to consider. I like to use this analogy for predicting the future of Blockchain in broad use. Imagine you have a use case of predicting when autumn will come. You don’t need a model to tell you which months of the year are autumn; however, machine learning is able to tell you when autumn is coming by identifying early symptoms. In Chinese’s idioms “一葉知秋”. This is also a primitive intelligence. It means as far as we see a leave shedding, we know autumn is coming. In this case, the shedding leave is the early signal of autumn as well as the early adopters of Blockchain for Bitcoins and other Crypto Currencies are the early symptoms of a much larger adoption that is coming.

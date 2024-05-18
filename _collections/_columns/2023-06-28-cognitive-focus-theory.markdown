@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Cognitive focus theory” explains “luck” <br> in terms of human relationships <br> with time
+title:  “Cognitive focus theory” explains “luck” in terms of human relationships with time
 author: Miyata Bunki
 date:   2023-06-28 00:00:00 +0900
 image: https://data.wingarc.com/wp-content/uploads/2023/02/cognitive-focus-theory.jpg.webp
